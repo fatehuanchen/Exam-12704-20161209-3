@@ -14,7 +14,7 @@ public class ConfirmDate {
 	    String str=scanner.next();
 	   String str1=str.substring(5,7);
 	   String str2=str.substring(0,4);
-	  // System.out.println(str1);
+	 
 	   //System.out.println(str1);
 	   int a=Integer.parseInt(str2);
 	   String str3=str.substring(9,10);
